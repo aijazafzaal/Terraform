@@ -1,5 +1,6 @@
 # Terraform
-![image](https://github.com/user-attachments/assets/3406ef13-916b-4795-8b68-a35824b67abf)
+<img src="https://github.com/user-attachments/assets/3406ef13-916b-4795-8b68-a35824b67abf" alt="Image Description" width="500"/>
+
 
 
 
